@@ -134,3 +134,14 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Generated content
+.contentlayer
+.content-collections
+.source
+
+# Misc
+.DS_Store
+**/.obsidian
+package-lock.json
+next-env.d.ts
